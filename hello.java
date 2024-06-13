@@ -6,5 +6,6 @@ public class hello
     int c = 20;
     int b = a+c;
     System.out.println(b);
+    System.out.println("my name is gnanesh");
   }
 }
